@@ -1,0 +1,44 @@
+.container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+   width: 480px;
+   text-align: start;
+   margin-left: 400px;
+   display: flex;
+   flex-direction: column;
+   padding-left: 20px;
+   padding-bottom: 10px;
+}
+.hii{
+    display: flex;
+    margin-left: 10px;
+    font-size: 40px;
+    line-height: 10px;
+}
+.hiipic{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.welcome{
+    font-size: 25px;
+    line-height: 10px;
+}
+.love-container{
+    display: flex;
+    gap: 20px;
+}
+.love-image{
+    width: 25px;
+    height: 25px;
+    /* margin-left: 30px; */
+    margin-top: 20px;
+}
+.toggle-btn{
+    padding: 8px;
+    border-radius: 18px;
+    border: 1px solid gray;
+    padding-left: 16px;
+    padding-right: 16px;
+}
