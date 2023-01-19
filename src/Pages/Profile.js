@@ -21,7 +21,7 @@ function Profile() {
 
         
      //API calling for user Posts
-     {}
+     
         fetch(`https://dummyapi.io/data/v1/user/${id}/post`,
         {method:"GET",
       
